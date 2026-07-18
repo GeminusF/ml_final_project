@@ -1,0 +1,59 @@
+\documentclass[9pt,landscape]{article}
+\usepackage[margin=1.05cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{array,booktabs,tabularx,xcolor}
+\usepackage{microtype}
+\pagestyle{empty}
+\definecolor{navy}{HTML}{163A5F}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+\begin{document}
+\begin{center}
+{\Large\bfseries\color{navy} Machine Learning Final Project}\\[2pt]
+{\normalsize Contribution report}
+\end{center}
+
+\vspace{4pt}
+\scriptsize
+\renewcommand{\arraystretch}{1.18}
+\begin{tabularx}{\textwidth}{p{1.45cm}YYYYY}
+\toprule
+\textbf{Member Name} & \textbf{Modules/Code Sections} &
+\textbf{Report Sections} & \textbf{Experiments} & \textbf{Slides} &
+\textbf{Other Tasks} \\
+\midrule
+Milana Karimova & Repository foundations and CI; preprocessing; evaluation
+metrics; weighted Decision Tree; Gradient Boosting & README; project guide;
+contribution report; preprocessing, tree, and Gradient Boosting material &
+Foundation and baseline support; data acquisition guidance; Gradient Boosting
+analysis & Foundation, data, tree, and Gradient Boosting defense material &
+PRs 1, 2, and 9; contribution share 24.11\% \\
+\addlinespace
+Sharaf Feyzullayev & Dataset registry and audit; AdaBoost; SAMME.R; DBSCAN;
+package exports; experiment utilities & Report components; AdaBoost and DBSCAN
+methods and results & Dataset audit; AdaBoost and SAMME.R analysis; DBSCAN and
+unsupervised support & Dataset, AdaBoost, SAMME.R, and DBSCAN defense material &
+PRs 3, 6, and 10; contribution share 25.09\% \\
+\addlinespace
+Nijat Agayev & Random Forest and OOB behavior; bagging exports; PCA; K-Means;
+progress and ETA system & Validation report; slide guide; defense guide; Random
+Forest, PCA, and K-Means evidence & Random Forest and OOB studies; PCA and
+K-Means analysis; progress and reproducibility validation & Random Forest, OOB,
+PCA, K-Means, validation, and defense material & PRs 4, 5, and 12; contribution
+share 25.95\% \\
+\addlinespace
+Farah Feyzullayev & Experiment runner; \texttt{run\_all.py}; smoke tests;
+interactive notebook & Final report assembly; final presentation & Complete
+seven-study orchestration; full-run results and figures & Final full-run deck
+and presentation evidence & PRs 7, 8, and 11; contribution share 24.85\% \\
+\bottomrule
+\end{tabularx}
+
+\vspace{7pt}
+\footnotesize
+\noindent\texttt{\detokenize{Milana Karimova: ______________________________}}\\[8pt]
+\noindent\texttt{\detokenize{Sharaf Feyzullayev: ___________________________}}\\[8pt]
+\noindent\texttt{\detokenize{Nijat Agayev: _________________________________}}\\[8pt]
+\noindent\texttt{\detokenize{Farah Feyzullayev: ____________________________}}
+
+\end{document}
