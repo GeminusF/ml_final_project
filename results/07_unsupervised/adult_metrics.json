@@ -1,0 +1,11 @@
+{
+  "analysis_sample_size": 2000,
+  "best_k": 4,
+  "dataset": "adult",
+  "dbscan_ari": 0.09192794092898511,
+  "dbscan_eps": 2.2177729206108916,
+  "dbscan_noise_fraction": 0.051,
+  "kmeans_ari": 0.10033604462253956,
+  "retained_components": 21,
+  "variance_target": 0.9
+}

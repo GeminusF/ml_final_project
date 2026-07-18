@@ -1,0 +1,41 @@
+dataset,replicate,noise_fraction,model,accuracy
+adult,0,0.0,AdaBoost,0.8573037158358071
+adult,0,0.0,Random Forest,0.8685638243423073
+adult,0,0.05,AdaBoost,0.8556658818712253
+adult,0,0.05,Random Forest,0.8666188965093664
+adult,0,0.1,AdaBoost,0.853618589415498
+adult,0,0.1,Random Forest,0.8675401781144436
+adult,0,0.2,AdaBoost,0.8542327771522162
+adult,0,0.2,Random Forest,0.8627290408434845
+adult,1,0.0,AdaBoost,0.8573037158358071
+adult,1,0.0,Random Forest,0.8687685535878801
+adult,1,0.05,AdaBoost,0.8557682464940116
+adult,1,0.05,Random Forest,0.8679496366055891
+adult,1,0.1,AdaBoost,0.8562800696079435
+adult,1,0.1,Random Forest,0.86539052103593
+adult,1,0.2,AdaBoost,0.8519807554509161
+adult,1,0.2,Random Forest,0.8611935715016891
+adult,2,0.0,AdaBoost,0.8573037158358071
+adult,2,0.0,Random Forest,0.8673354488688709
+adult,2,0.05,AdaBoost,0.8579179035725253
+adult,2,0.05,Random Forest,0.8692803767018119
+adult,2,0.1,AdaBoost,0.8562800696079435
+adult,2,0.1,Random Forest,0.8678472719828028
+adult,2,0.2,AdaBoost,0.8562800696079435
+adult,2,0.2,Random Forest,0.8623195823523391
+adult,3,0.0,AdaBoost,0.8573037158358071
+adult,3,0.0,Random Forest,0.8685638243423073
+adult,3,0.05,AdaBoost,0.8559729757395844
+adult,3,0.05,Random Forest,0.8681543658511618
+adult,3,0.1,AdaBoost,0.8541304125294298
+adult,3,0.1,Random Forest,0.8664141672637936
+adult,3,0.2,AdaBoost,0.8545398710205753
+adult,3,0.2,Random Forest,0.8582249974408844
+adult,4,0.0,AdaBoost,0.8573037158358071
+adult,4,0.0,Random Forest,0.8700992936841028
+adult,4,0.05,AdaBoost,0.8570989865902344
+adult,4,0.05,Random Forest,0.8675401781144436
+adult,4,0.1,AdaBoost,0.8567918927218753
+adult,4,0.1,Random Forest,0.8675401781144436
+adult,4,0.2,AdaBoost,0.8561777049851571
+adult,4,0.2,Random Forest,0.8613983007472618

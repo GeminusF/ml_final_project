@@ -1,0 +1,5 @@
+dataset,model,accuracy,f1_macro,auc_roc,depth,absolute_accuracy_difference,within_two_percentage_points
+breast_cancer,custom_tree,0.9122807017543859,0.9074675324675325,0.9156746031746031,7.0,,
+breast_cancer,decision_stump,0.9210526315789473,0.9138321995464853,0.9077380952380953,1.0,,
+breast_cancer,sklearn_tree_reference,0.9122807017543859,0.9074675324675325,0.9156746031746031,7.0,,
+breast_cancer,custom_reference_check,0.9122807017543859,,,,0.0,True

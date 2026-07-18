@@ -1,0 +1,41 @@
+dataset,replicate,noise_fraction,model,accuracy
+breast_cancer,0,0.0,AdaBoost,0.956140350877193
+breast_cancer,0,0.0,Random Forest,0.956140350877193
+breast_cancer,0,0.05,AdaBoost,0.9210526315789473
+breast_cancer,0,0.05,Random Forest,0.9473684210526315
+breast_cancer,0,0.1,AdaBoost,0.9298245614035088
+breast_cancer,0,0.1,Random Forest,0.956140350877193
+breast_cancer,0,0.2,AdaBoost,0.9298245614035088
+breast_cancer,0,0.2,Random Forest,0.9298245614035088
+breast_cancer,1,0.0,AdaBoost,0.956140350877193
+breast_cancer,1,0.0,Random Forest,0.956140350877193
+breast_cancer,1,0.05,AdaBoost,0.9210526315789473
+breast_cancer,1,0.05,Random Forest,0.9473684210526315
+breast_cancer,1,0.1,AdaBoost,0.9122807017543859
+breast_cancer,1,0.1,Random Forest,0.9473684210526315
+breast_cancer,1,0.2,AdaBoost,0.8771929824561403
+breast_cancer,1,0.2,Random Forest,0.9385964912280702
+breast_cancer,2,0.0,AdaBoost,0.956140350877193
+breast_cancer,2,0.0,Random Forest,0.9473684210526315
+breast_cancer,2,0.05,AdaBoost,0.9385964912280702
+breast_cancer,2,0.05,Random Forest,0.9298245614035088
+breast_cancer,2,0.1,AdaBoost,0.9473684210526315
+breast_cancer,2,0.1,Random Forest,0.9210526315789473
+breast_cancer,2,0.2,AdaBoost,0.9385964912280702
+breast_cancer,2,0.2,Random Forest,0.9298245614035088
+breast_cancer,3,0.0,AdaBoost,0.956140350877193
+breast_cancer,3,0.0,Random Forest,0.956140350877193
+breast_cancer,3,0.05,AdaBoost,0.9736842105263158
+breast_cancer,3,0.05,Random Forest,0.9473684210526315
+breast_cancer,3,0.1,AdaBoost,0.9122807017543859
+breast_cancer,3,0.1,Random Forest,0.956140350877193
+breast_cancer,3,0.2,AdaBoost,0.8421052631578947
+breast_cancer,3,0.2,Random Forest,0.9473684210526315
+breast_cancer,4,0.0,AdaBoost,0.956140350877193
+breast_cancer,4,0.0,Random Forest,0.956140350877193
+breast_cancer,4,0.05,AdaBoost,0.9298245614035088
+breast_cancer,4,0.05,Random Forest,0.956140350877193
+breast_cancer,4,0.1,AdaBoost,0.9385964912280702
+breast_cancer,4,0.1,Random Forest,0.9649122807017544
+breast_cancer,4,0.2,AdaBoost,0.8947368421052632
+breast_cancer,4,0.2,Random Forest,0.9473684210526315

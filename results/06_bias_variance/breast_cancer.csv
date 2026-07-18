@@ -1,0 +1,3 @@
+dataset,model,bootstrap_replicates,bias_squared,variance,expected_brier_loss,decomposition_residual
+breast_cancer,AdaBoost,100,0.3381881752428831,0.0006515950669257295,0.3388397703098088,-3.7513395167998453e-17
+breast_cancer,Random Forest,100,0.06748238614035089,0.004618754210526315,0.0721011403508772,-7.806255641895632e-18

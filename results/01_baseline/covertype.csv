@@ -1,0 +1,5 @@
+dataset,model,accuracy,f1_macro,auc_roc,depth,absolute_accuracy_difference,within_two_percentage_points
+covertype,custom_tree,0.7155,0.5514105314042964,0.7535773314711707,29.0,,
+covertype,decision_stump,0.629,0.19391039462557597,0.7253364793282843,1.0,,
+covertype,sklearn_tree_reference,0.7235,0.5825653582629274,0.7692667836745971,29.0,,
+covertype,custom_reference_check,0.7155,,,,0.008000000000000007,True
