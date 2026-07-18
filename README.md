@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GeminusF/ml_final_project)
+
 # Ensemble Methods: Boosting vs. Bagging
 
 From-scratch NumPy implementations and reproducible experiments for the Machine Learning final project. The project compares how boosting reduces systematic error by focusing successive learners on difficult observations, while bagging reduces variance by averaging decorrelated bootstrap trees.
