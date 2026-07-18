@@ -1,0 +1,11 @@
+{
+  "analysis_sample_size": 2000,
+  "best_k": 4,
+  "dataset": "covertype",
+  "dbscan_ari": 0.06657572230518106,
+  "dbscan_eps": 3.4626947777456967,
+  "dbscan_noise_fraction": 0.0185,
+  "kmeans_ari": 0.09471426909764188,
+  "retained_components": 36,
+  "variance_target": 0.9
+}

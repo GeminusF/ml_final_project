@@ -1,0 +1,41 @@
+dataset,replicate,noise_fraction,model,accuracy
+covertype,0,0.0,AdaBoost,0.593
+covertype,0,0.0,Random Forest,0.7895
+covertype,0,0.05,AdaBoost,0.665
+covertype,0,0.05,Random Forest,0.782
+covertype,0,0.1,AdaBoost,0.663
+covertype,0,0.1,Random Forest,0.7745
+covertype,0,0.2,AdaBoost,0.666
+covertype,0,0.2,Random Forest,0.7835
+covertype,1,0.0,AdaBoost,0.593
+covertype,1,0.0,Random Forest,0.791
+covertype,1,0.05,AdaBoost,0.672
+covertype,1,0.05,Random Forest,0.781
+covertype,1,0.1,AdaBoost,0.6705
+covertype,1,0.1,Random Forest,0.784
+covertype,1,0.2,AdaBoost,0.67
+covertype,1,0.2,Random Forest,0.7765
+covertype,2,0.0,AdaBoost,0.593
+covertype,2,0.0,Random Forest,0.786
+covertype,2,0.05,AdaBoost,0.661
+covertype,2,0.05,Random Forest,0.783
+covertype,2,0.1,AdaBoost,0.6675
+covertype,2,0.1,Random Forest,0.778
+covertype,2,0.2,AdaBoost,0.6545
+covertype,2,0.2,Random Forest,0.7805
+covertype,3,0.0,AdaBoost,0.593
+covertype,3,0.0,Random Forest,0.786
+covertype,3,0.05,AdaBoost,0.6675
+covertype,3,0.05,Random Forest,0.791
+covertype,3,0.1,AdaBoost,0.6605
+covertype,3,0.1,Random Forest,0.784
+covertype,3,0.2,AdaBoost,0.6615
+covertype,3,0.2,Random Forest,0.78
+covertype,4,0.0,AdaBoost,0.593
+covertype,4,0.0,Random Forest,0.783
+covertype,4,0.05,AdaBoost,0.6615
+covertype,4,0.05,Random Forest,0.791
+covertype,4,0.1,AdaBoost,0.666
+covertype,4,0.1,Random Forest,0.7795
+covertype,4,0.2,AdaBoost,0.664
+covertype,4,0.2,Random Forest,0.782

@@ -1,0 +1,236 @@
+{
+  "artifact_count": 80,
+  "datasets": [
+    "breast_cancer",
+    "adult",
+    "covertype"
+  ],
+  "elapsed_seconds": 24764.275004899944,
+  "phases": [
+    {
+      "dataset": "all",
+      "elapsed_seconds": 3.463450300041586,
+      "experiment": "Dataset loading",
+      "observed_units": 0,
+      "planned_units": 3,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 0.033283700002357364,
+      "experiment": "Preprocessing",
+      "observed_units": 0,
+      "planned_units": 1,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 0.851308900048025,
+      "experiment": "Baseline",
+      "observed_units": 0,
+      "planned_units": 3,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 20.89483260002453,
+      "experiment": "AdaBoost scaling",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 142.55286509997677,
+      "experiment": "Random Forest scaling",
+      "observed_units": 2200,
+      "planned_units": 2200,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 65.36281800002325,
+      "experiment": "Head-to-head comparison",
+      "observed_units": 1000,
+      "planned_units": 1505,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 1223.7631408000598,
+      "experiment": "Noise robustness",
+      "observed_units": 4000,
+      "planned_units": 4000,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 7.703286499949172,
+      "experiment": "Unsupervised analysis",
+      "observed_units": 105,
+      "planned_units": 105,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 71.05760860000737,
+      "experiment": "SAMME.R bonus",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 38.018230400048196,
+      "experiment": "Gradient Boosting bonus",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 0.2763061999576166,
+      "experiment": "Preprocessing",
+      "observed_units": 0,
+      "planned_units": 1,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 78.12114269996528,
+      "experiment": "Baseline",
+      "observed_units": 0,
+      "planned_units": 3,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 540.5310035999864,
+      "experiment": "AdaBoost scaling",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 4366.905158699956,
+      "experiment": "Random Forest scaling",
+      "observed_units": 2200,
+      "planned_units": 2200,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 3721.631684000022,
+      "experiment": "Head-to-head comparison",
+      "observed_units": 1000,
+      "planned_units": 1505,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 10092.858372900053,
+      "experiment": "Noise robustness",
+      "observed_units": 4000,
+      "planned_units": 4000,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 9.731556899962015,
+      "experiment": "Unsupervised analysis",
+      "observed_units": 105,
+      "planned_units": 105,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 327.5390838000458,
+      "experiment": "SAMME.R bonus",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "adult",
+      "elapsed_seconds": 206.8544751999434,
+      "experiment": "Gradient Boosting bonus",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 0.02911759994458407,
+      "experiment": "Preprocessing",
+      "observed_units": 0,
+      "planned_units": 1,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 5.5044467999832705,
+      "experiment": "Baseline",
+      "observed_units": 0,
+      "planned_units": 3,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 47.347012800048105,
+      "experiment": "AdaBoost scaling",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 782.8547239999752,
+      "experiment": "Random Forest scaling",
+      "observed_units": 2200,
+      "planned_units": 2200,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 452.2559036000166,
+      "experiment": "Head-to-head comparison",
+      "observed_units": 1000,
+      "planned_units": 1505,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 1695.997532700072,
+      "experiment": "Noise robustness",
+      "observed_units": 4000,
+      "planned_units": 4000,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 9.516064399969764,
+      "experiment": "Unsupervised analysis",
+      "observed_units": 105,
+      "planned_units": 105,
+      "status": "completed"
+    },
+    {
+      "dataset": "covertype",
+      "elapsed_seconds": 49.32236769993324,
+      "experiment": "SAMME.R bonus",
+      "observed_units": 200,
+      "planned_units": 200,
+      "status": "completed"
+    },
+    {
+      "dataset": "breast_cancer",
+      "elapsed_seconds": 803.2471939000534,
+      "experiment": "Bias-variance decomposition",
+      "observed_units": 20000,
+      "planned_units": 20000,
+      "status": "completed"
+    }
+  ],
+  "profile": "full"
+}

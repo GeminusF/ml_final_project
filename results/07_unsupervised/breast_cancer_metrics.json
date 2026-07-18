@@ -1,0 +1,11 @@
+{
+  "analysis_sample_size": 569,
+  "best_k": 3,
+  "dataset": "breast_cancer",
+  "dbscan_ari": 0.03002568523418325,
+  "dbscan_eps": 3.4828173896249286,
+  "dbscan_noise_fraction": 0.06502636203866433,
+  "kmeans_ari": 0.5146132712442905,
+  "retained_components": 7,
+  "variance_target": 0.9
+}
